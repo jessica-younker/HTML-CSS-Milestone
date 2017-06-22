@@ -1,6 +1,28 @@
-.big-image {
-    border: black;
-    max-height: 70%;
-    margin-left: 50%
-    margin-right: 50%;
+img {
+    max-height: 100%;
+    max-width: 100%;
+    display: inline-block;
+    float: left;
+    margin-right: 5px;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.portrait {
+    height: 30%;
+    width: 30%;
+}
+
+.name {
+    font-family: "Courier", Times, serif;
+}
+
+.link-bar {
+    font-family: "Courier", Times, serif
+}
+
+a {
+    color: black;
+    text-decoration: bold
 }
