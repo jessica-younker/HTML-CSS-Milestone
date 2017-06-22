@@ -19,10 +19,11 @@ img {
 }
 
 .link-bar {
-    font-family: "Courier", Times, serif
+    font-family: "Courier", Times, serif;
+    font-size: 25px;
+    font-weight: bold;
 }
 
 a {
     color: black;
-    text-decoration: bold
 }
